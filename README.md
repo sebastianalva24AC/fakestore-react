@@ -1,7 +1,7 @@
 # 🛍️ FakeStore Catalog
 
 Este proyecto fue desarrollado como parte del curso de Desarrollo Web con React + Vite.  
-La aplicación consume datos desde la **FakeStore API** y muestra un catálogo de productos con su nombre, precio e imagen, simulando una tienda online.
+La aplicación consume datos desde la **FakeStore API** y muestra un catálogo de productos con mi nombre, precio e imagen, simulando una tienda online.
 
 ---
 
@@ -11,16 +11,11 @@ La aplicación consume datos desde la **FakeStore API** y muestra un catálogo d
 - **React Router DOM**
 - **TailwindCSS**
 - **FakeStore API**
-- **Vercel** (para el deploy)
+- **Vercel** 
 
 ---
 
 ## 🚀 Instalación y ejecución
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/TU-USUARIO/fakestore-react.git
-   cd fakestore-react
 
 1. Clonar el repositorio:
    ```bash
